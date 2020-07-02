@@ -1,0 +1,22 @@
+{
+  "name": "learn-javascript-the-good-parts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awong1900/learn-javascript-the-good-parts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awong1900/learn-javascript-the-good-parts/issues"
+  },
+  "homepage": "https://github.com/awong1900/learn-javascript-the-good-parts#readme",
+  "devDependencies": {
+    "eslint": "^7.3.1"
+  }
+}
